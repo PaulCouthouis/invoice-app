@@ -1,4 +1,4 @@
-# Kata d'entrainement : Impression d'une facture à partir d'un panier de produits
+# Kata : Impression d'une facture à partir d'un panier de produits
 
 ## Installation et lancement des tests
 ```
@@ -7,7 +7,7 @@
 ```
 
 ## Contraintes
-Entrainement réalisé en programmation orienté "fonctionnelle" avec des règles eslint spécifiques.
+Entrainement réalisé en programmation orientée "fonctionnelle" avec des règles eslint spécifiques.
 
 ## Périmètre
 Le kata se limite au coeur du domaine et ne possède qu'une seule user story. 
@@ -21,7 +21,7 @@ Il contient :
 - Les livres taxés à 10%
 - Les autres produits taxés à 20 %
 
-On souhaite imprimer une facture suivant une liste de produits contenu dans un panier. Les valeurs affichés sont: 
+On souhaite imprimer une facture suivant une liste de produits contenu dans un panier. Les valeurs affichées sont: 
 - pour chaque produit, sa quantité, son prix unitaire HT et son prix total TTC en fonction de la quantité
 - le total des taxes du panier
 - le total TTC du panier
