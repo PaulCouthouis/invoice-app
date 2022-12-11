@@ -1,4 +1,4 @@
-# Kata : Impression d'une facture à partir d'un panier de produits
+# Kata : Impression d'une facture
 
 ## Installation et lancement des tests
 ```
